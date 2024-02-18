@@ -1,4 +1,4 @@
-#  https://www.geeksforgeeks.org/problems/flatten-bst-to-sorted-list--111950/1day-72.py
+#  https://www.geeksforgeeks.org/problems/flatten-bst-to-sorted-list--111950/1
 
 
 import sys
