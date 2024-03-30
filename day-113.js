@@ -8,3 +8,4 @@ class Solution {
        return adj.every(v_adj => v_adj.length % 2 === 0);
     }
 }
+
